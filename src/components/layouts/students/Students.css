@@ -1,0 +1,17 @@
+.label{
+    width: 130px;
+    border : none !important;
+}
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
+        margin: 0; 
+}
+.back-button{
+    background: white !important;
+    font-size: 1em !important;
+    margin : 1.5em .25em 0 0 !important;
+}

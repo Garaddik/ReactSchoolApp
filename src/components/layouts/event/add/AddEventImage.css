@@ -1,0 +1,27 @@
+.upload-img-css{
+    max-width: 300px;
+    max-height: 300px;
+}
+.add-card{
+    max-width: 400px;
+    max-height: 800px;
+}
+.delete-img-css{
+    max-width: 30px;
+    max-width: 30px;
+    float: right;
+}
+.border {
+    max-height: 170px;
+    max-width: 300px;
+    text-align: center;
+    margin: 2em;
+}
+
+.edit-event-icon-css{
+    float: right;
+}
+
+.gallery-list-margin-css{
+    padding-bottom: 3rem;
+}

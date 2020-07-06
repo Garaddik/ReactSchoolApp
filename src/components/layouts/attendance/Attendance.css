@@ -1,0 +1,15 @@
+.attendance-table{
+    width:100%;
+    height:600px;
+    overflow-X: scroll;
+    overflow-Y: scroll;
+}
+.exportButton {
+    background-color: white;
+    color: teal;
+    border: 1px solid teal;
+    border-radius: 5px;
+    margin: 2em;
+    padding: .78571429em 1.5em .78571429em;
+    background:  transparent none!important
+}

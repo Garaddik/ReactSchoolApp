@@ -1,0 +1,21 @@
+.view-card{
+    width: 450px;
+    height: 450px; 
+}
+
+.card .image {
+    text-align: center;
+    margin: auto;
+}
+
+.card .image > img {
+    min-height: 270px;
+    max-width: 300px;
+    max-height: 270px;
+}
+.border {
+    max-height: 170px;
+    max-width: 300px;
+    text-align: center;
+    margin: 2em;
+}

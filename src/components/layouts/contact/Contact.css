@@ -1,0 +1,31 @@
+ .form-container{
+     width: 100%;
+     padding: 1em;
+     font-size: 20px;
+     text-align: center;
+     padding-top: 6em;
+ }
+ 
+ .contact-form{ 
+    width: 50%;
+    float: left; 
+}
+
+.field > label {
+    text-align: left;
+}
+
+.custom-button{
+    margin-top: 1em !important;
+} 
+
+@media only screen and (max-width:420px){
+    .form-container{
+        margin-left: 10px;
+        padding-bottom: 10em;
+    }
+    .contact-form{ 
+        width:100%;
+        padding-bottom: 2em;
+    }
+}

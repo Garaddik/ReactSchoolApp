@@ -1,0 +1,73 @@
+.template-view {
+    margin-top: 6.4em !important;
+    background:lightgrey !important
+}
+
+.content {
+    padding-bottom: 2em !important;
+}
+
+.school-name{
+    color: rgba(101, 89, 89, 0.87) !important;
+    margin: 0px !important;
+}
+
+.name-wrapper{
+    margin-top :2em;
+    margin-right: 12em;
+}
+
+.details {
+    font-size: 1.3rem !important;
+    line-height : 1.6em;
+}
+
+.address{
+    font-size: 1.2rem;
+    margin-bottom: 4.4em !important;
+    line-height: 1.6em;
+    font-weight: bold
+}
+
+.gallery {
+    max-width: 600 !important;
+}
+
+.logo{
+    float: left
+}
+
+
+@media only screen and (min-width: 320px) {
+
+    .school-text-size-header{
+        font-size: 15px;
+    }
+    
+    .school-text-size-description{
+        font-size: 12px;
+    }
+    
+    }
+
+    @media only screen and (min-width: 768) {
+        .school-text-size-header{
+            font-size: 20px;
+        }
+
+        .school-text-size-description{
+            font-size: 15px;
+        }
+    }
+
+
+    @media only screen and (min-width: 1024px) {
+        .school-text-size-header{
+            font-size: 25px;
+        }
+
+        .school-text-size-description{
+            font-size: 17px;
+        }
+    }
+

@@ -1,0 +1,39 @@
+.checkbox{
+	margin-bottom: 1em;
+}
+
+.regular-checkbox {
+	float: left	!important
+}
+
+.subject-name{
+	margin-left: 2em !important;
+	line-height: 0.95em !important
+}
+.notimetable{
+	padding-left: 20em;
+	padding-top: 5em
+}
+.timetable-table{
+	padding-bottom: 1.5em !important;
+	text-align : center !important;
+	margin-top : 1em !important;
+	width:1000px !important;
+	height:800px !important;
+	overflow-x : scroll
+}
+
+.view-timetable-table{
+	padding-bottom: 1.5em !important;
+	text-align : center !important;
+	margin-top : 1em !important;
+	width:1000px !important;	
+	overflow-x : scroll
+}
+
+.visible.transition {
+	margin-top: auto !important;
+	display: inline-block !important;
+	position: relative;
+	top: 20%;
+  }

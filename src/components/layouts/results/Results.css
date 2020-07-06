@@ -1,0 +1,15 @@
+.table-styling{
+    width:100%;
+    height:600px;
+    overflow-X: scroll;
+    overflow-Y: scroll;
+}
+
+.no-exam{
+	padding-left: 20em;
+	padding-top: 5em
+}
+.tableStyles{
+    overflow-x: scroll;
+
+}
